@@ -1,0 +1,15 @@
+Tema IS
+
+Cerințe
+1)Actorii
+  -Profesor,Secretara,Student cu taxă/fară taxă
+2)Actori specializați și actori generli și tipul relației dintre ei
+
+Actorii Student cu taxă și Student fară taxă sunt specializări ale actorului Student care este mai general.(relația este de generalizare)
+Actorii Student,Secretara și Profesor sunt specializări ale actorului User care este mai general.(relația este de generalizare)
+3)
+Cazul de utilizare log in va fi executate de fiecare dată cand va fi lansat unul din celelalte cazuri.(relațe de incluziune)
+4)
+relatie de extindere
+5)
+relația de incluziune
